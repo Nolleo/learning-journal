@@ -1,5 +1,12 @@
 # learning-journal
 A place where I can learn or take notes.
+
+These notes will help me formalize my coding language, learning from the ground up.  These building blocks will help me expand professionally, and help my ice cream business:
+1. Empower my general website abilities 
+1. Improve the flying pengwyn :airplane: :penguin: business
+	1. More friendly
+	1. More features 
+	
 # **Growth Mindset**
 > To me, Growth Mindset is the powerful reminder that the potential of anything is within my power to learn.  When growth is the goal, everything is a Win or Lesson, an opportunity to gain.  Opposing growth is a Fixed Mindset, leaving movement  
 
@@ -18,9 +25,3 @@ To complete code Fellows 102:
 - [ ] Wednesday
 - [ ] Thursday
 - [ ] Friday
-
-These learnings will 
-1. Empower my general website abilities 
-1. Improve the flying pengwyn :airplane: :penguin: business
-	1. More friendly
-	1. More features 
