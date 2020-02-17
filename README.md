@@ -1,6 +1,7 @@
 # learning-journal
 A place where I can learn or take notes.
 # **Growth Mindset**
+> To me, Growth Mindset is the 
 Fixed Mindset | When faced with... | Growth Mindset | REMINDERS how to keep Growth Mindset
 ------------- | ------------------ | -------------- | ------------------------------------
 Avoids | CHALLENGES | Embraces | Wins & Lessons - I can only gain from any challenge.
