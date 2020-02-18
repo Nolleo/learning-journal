@@ -1,5 +1,7 @@
 # learning-journal
-A place where I can learn or take notes.
+Hi, my name is Noel Davenport!  You can see my GitHub portfolio https://github.com/Nolleo (please feel free to browse and star)
+
+This is a place where I can learn or take notes.
 
 These notes will help me formalize my coding language, learning from the ground up.  These building blocks will help me expand professionally, and help my ice cream business:
 1. Empower my general website abilities 
