@@ -36,9 +36,9 @@ Visual Studio Code* | Visual Studio Code* | Visual Studio Code*
 Atom** | Atom** | Atom**
 Brackets*** | Brackets*** | Brackets***
 
-> * made by [Microsoft](https://visualstudio.microsoft.com/downloads/)
+> (* made by [Microsoft](https://visualstudio.microsoft.com/downloads/)
 > ** made by [GitHub](https://atom.io/)
-> *** made by [Adobe](http://brackets.io/)
+> *** made by [Adobe](http://brackets.io/))
 
 [Sublime Text 3](https://www.sublimetext.com/3) is a PREMIUM (~~$00~~ __$70__) that's typically valued for it's speed, being exceptionally responsive, and many desired themes.
 
