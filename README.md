@@ -1,5 +1,10 @@
 # learning-journal
-Hi, my name is Noel Davenport!  You can see my GitHub portfolio https://github.com/Nolleo (please feel free to browse and star)
+Hi, my name is Noel Davenport!  And my first effrorts in building a big robust website was when I launched a business that required complex credit card rules and ID checking process.  I eventually made something that met the WA LCB requirements, but finally hired a company to improve and maintain.  If I had more code abilities I would have save a TON of money, and maintained more creative control.  Please see this image of me and my business partner from the 2009 days of iHaveMunchies ("IHM") - home delivery of alcohol, tobaco and munchies!
+
+Format: ![Noel pic](https://media2.fdncms.com/stranger/imager/u/original/25513689/chow-570.jpg)
+
+My current endevor is also delivery, focused on micro-batch ice cream Flying Pengwyn Ice Cream - www.flyingpengwyn.com (I appreciate ideas and feedback)
+You can see my GitHub portfolio https://github.com/Nolleo (please feel free to browse and star)
 
 This is a place where I can learn or take notes.
 
