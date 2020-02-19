@@ -1,4 +1,10 @@
 # CSS
+
+## Cascading Style Sheets
+- top to bottom 
+- CLASS - multiple tags - .name
+- ID - one tag - #name
+
 ### How it works
 - Lives in the head as either:
     - a href to another doc - named either "CSS" or "style"
@@ -35,7 +41,8 @@
 
 
 ### Rules
-- CSS associates rules with HTML elements. Made of:
+
+- CSS associates rules with HTML elements. Made of __RULE SETS__:
     - selector (front)
         - indicate which element applied.
         - same rule can apply to more than one element - spearate with commas.
