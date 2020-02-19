@@ -20,6 +20,7 @@ This is a place where I can learn or take notes.
 	1. [Text Editor](TEXTEDITOR.md)
 	1. [Terminal](TERMINAL.md)
 	1. [Git Guide - (_made in VS Code_)](VScode.md)
+1. [HTML](HTML.md)
 1. Active notes - things on the forefront of my mind
 	1. How to avoind right-click paste in code? Make a custom command??
 	1. When to revisit www.flyingpengwyn.com features from what I've learned? 
