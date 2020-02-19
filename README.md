@@ -1,7 +1,7 @@
 # learning-journal
 I am Noel Davenport!  
 
-My first effrorts in building a big robust website was when launching my business that required complex credit card rules and ID checking process.  I eventually made something that met the WA LCB requirements, but finally hired a company to improve and maintain.  If I had more code abilities I would have save a TON of money, and maintained more creative control.  Please see this image of me and my business partner from the 2009 days of iHaveMunchies ("IHM") - home delivery of alcohol, tobaco and munchies!
+My first efforts in building a big robust website was when launching my business that required complex credit card rules and ID checking process.  I eventually made something that met the WA LCB requirements, but finally hired a company to improve and maintain.  If I had more code abilities I would have save a TON of money, and maintained more creative control.  Please see this image of me and my business partner from the 2009 days of iHaveMunchies ("IHM") - home delivery of alcohol, tobacco and munchies!
 
 ~2009 in Fremont area of Seattle, me and my business partner (Mark): ![Noel pic](https://media2.fdncms.com/stranger/imager/u/original/25513689/chow-570.jpg-50)
 
