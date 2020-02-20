@@ -1,3 +1,5 @@
+[Home](README.md) 
+
 # **Growth Mindset**
 > To me, Growth Mindset is the powerful reminder that the potential of anything is within my power to learn.  When growth is the goal, everything is a Win or Lesson, an opportunity to gain.  Opposing growth is a Fixed Mindset, leaving movement. 
 

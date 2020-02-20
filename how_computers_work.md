@@ -1,5 +1,17 @@
-# How do computers work?
+[Home](README.md) 
+1. Other Notes
+	1. [Markdown](markdown.md)
+	1. [Text Editor](TEXTEDITOR.md)
+	1. [Terminal](TERMINAL.md)
+	1. [Git Guide - (_made in VS Code_)](VScode.md)
+	1. [HTML](HTML.md)
+	1. [CSS](CDD.md)
+	1. [Git Guide - (1st VS made notes)](GitGuide-VS.md)
+	1. [How Computers Work](how_computers_work.md)
+	1. [JaveScript Notes](JavaScript.md)
+	1. [JavaScript Programming](JavaScript-Programming.md)# How do computers work?
 
+# How Computers Work
 [original YouTube Link](https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=2)
 
 Computers are tools, for solving problems with better solutions

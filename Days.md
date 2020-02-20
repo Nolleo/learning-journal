@@ -1,6 +1,8 @@
+[Home](README.md) 
+
 To complete code Fellows 102:
 - [x] Monday
 - [x] Tuesday
-- [ ] Wednesday
+- [x] Wednesday
 - [ ] Thursday
 - [ ] Friday
