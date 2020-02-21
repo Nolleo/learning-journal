@@ -29,7 +29,7 @@ OPERATOR | NAME | MEANING | EXAMPLES
 >= | GREATER THAN OR EQUAL TO | Checks values, if number left is greater than number right  __NOT THE SAME__ | 4 > 3 returns __true__
 <= | LESS THAN OR EQUAL TO | Checks values, if number left is greater than number right  __NOT THE SAME__ | 4 > 3 returns __fale__
 && | LOGICAL AND | Tests condition, if BOTH expression returns TRUE - then TRUE  __NOT THE SAME__ | 4 > 3 returns __fale__
-|| | LOGICAL OR | Tests condition, if either expression returns TRUE - then TRUE  __NOT THE SAME__ | ((2 > 5) || (2 < 1)) returns __fale__
+`||` | LOGICAL OR | Tests condition, if either expression returns TRUE - then TRUE  __NOT THE SAME__ | ((2 > 5) || (2 < 1)) returns __fale__
 ! | LOGICAL NOT | REVERS states of expression  __NOT THE SAME__ | ((2 > 5) || (2 < 1)) returns __fale__
 
 __Evaluating__ = testing a condition for TRUE or FALSE
