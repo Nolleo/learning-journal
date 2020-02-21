@@ -29,3 +29,41 @@ __Comparison operators__ return single values __true__ or __fales__.  __LOGICAL 
 ((5 < 2) && (2 >= 3))
 - Do expression 1 and expression 2 BOTH evaluate to TRUE? __FALSE__
 
+## LOOPS
+
+### FOR
+
+#### Run a code specific NUMBER of times in a loop.  This is like a COUNTER for a LOOP.
+
+### WHILE
+
+#### If the number of loops is unknown, use WHILE.  Loop will continue until the TRUE condition becomes FALSE.
+
+### DO WHILE
+
+#### Like WHILE but will always evaluate the statement within curly brackets at least once, even if condition evaluates as false.
+
+### Loop Counters
+
+#### Initialization
+
+Create variable and set to __0__.  Commonly _i_ and acts as counter.
+> var i = 0;
+
+#### Condition
+
+Loop runs until counter reaches a specific number.
+> i , 10;
+
+#### Update
+
+After running the statements in curly braces, ADD ONE to the counter.
+> i++
+
+- KEYWORDS
+    - break - causes termination
+    - continue - continue and check again
+- Loop & Arrays
+- Performance Issues
+    - all other actions are paused until script done
+    - infinite loop warning - always FALSE
